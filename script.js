@@ -1,8 +1,8 @@
 // These are the variables I will need to calculate area and circumference.
 let d = 0
-let r = d / 2
-let ans1 = Math.PI * r ** 2
-let ans2 = 2 * Math.PI * r
+const r = d / 2
+const ans1 = Math.PI * r ** 2
+const ans2 = 2 * Math.PI * r
 
 // This script will link my button to a function.
 document.getElementById('button1').addEventListener('click', calculate)
