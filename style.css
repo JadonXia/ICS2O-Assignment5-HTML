@@ -1,0 +1,30 @@
+.box1 {
+  border: solid black 2px;
+  padding: 10px;
+  width: 25%;
+}
+
+.box2 {
+  border: solid black 2px;
+  padding: 10px;
+  width: 50%;
+}
+
+.box3 {
+  border: solid black 2px;
+  padding: 10px;
+  width: 10%;
+  text-align: center
+}
+
+.box4 {
+  border: solid darkgray 1px;
+  padding: 10px;
+  width: 50%;
+}
+
+img {
+  border: solid black 2px;
+  width: 25%;
+  height: 25%;
+}
