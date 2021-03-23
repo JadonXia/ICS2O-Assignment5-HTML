@@ -11,6 +11,7 @@ document.getElementById('button1').addEventListener('click', calculate)
 function calculate () {
   d = document.getElementById('text1').value
   d = parseInt(d)
+  r = parseInt(r)
   document.getElementById('results1').innerHTML = ans1
   document.getElementById('results2').innerHTML = ans2
 }
